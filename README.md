@@ -1,0 +1,2 @@
+# gtCore_Transacciones_Test_Back
+Backup/prueba de repositorio gtCore_Transacciones_Test_Back
